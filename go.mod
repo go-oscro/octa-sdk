@@ -1,4 +1,4 @@
-module github.com/go-oscro/octa-sdk
+module github.com/go-oscro/octa-sdk/models
 
 go 1.18
 
