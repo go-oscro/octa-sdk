@@ -1,4 +1,4 @@
-module sdk
+module github.com/go-oscro/octa-sdk
 
 go 1.18
 
